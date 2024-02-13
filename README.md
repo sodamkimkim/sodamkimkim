@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**sodamkimkim/sodamkimkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Main Projects
+### 📌 Unity
+- Unity Game with URP-Shader</br>
+https://github.com/sodamkimkim/Game_AquaMenti
+- Unity Metaverse with Photon(Multiplay), DB-Networking</br>
+https://github.com/sodamkimkim/Metaverse_MetaBiff
+- Unity Mini Game with Photon(Multiplay)</br>
+https://github.com/sodamkimkim/MultiplayGame_StolenFlag
 
-Here are some ideas to get you started:
+### 📌 WEB
+- Spring-boot Fullstack</br>
+https://github.com/sodamkimkim/WebFullStack_Oaga
+- Spring-boot & Android Studio</br>
+https://github.com/sodamkimkim/SpringAndroid_TodaysLunch
+- WEB Publishing (웹페이지 디자인및 리뉴얼)</br>
+https://github.com/sodamkimkim/Web_Publisher_all
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Basic
+- Java MultiThreading Game</br>
+https://github.com/sodamkimkim/JavaMultiThreadingGame_ChickenDelivery
+- Java Socket-Networking Chatting-room</br>
+https://github.com/sodamkimkim/JavaChattingRoom
+https://github.com/sodamkimkim/JavaSocketNetworking_YouCheaTalk
+- Java DB-Networking</br>
+https://github.com/sodamkimkim/JavaDB_MovieInfoSystem
