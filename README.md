@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Main Projects
 ### 📌 Unity
 - Unity Game with URP-Shader</br>
