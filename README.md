@@ -1,9 +1,15 @@
 # Main Projects 
 ### 📌 Unity
-- [ Unity Game with URP Shader ] 유니티 Mobile-2D 게임 'PUZZLEKONG' (개발중) </br>
+- [ Unity ] 유니티 Mobile-2D 게임 'PUZZLEKONG' (개발중) </br>
 https://github.com/sodamkimkim/PUZZLEKONG</br>
- 
-- [ Unity Game with URP Shader ] 유니티 게임 'AquaMenti'</br>
+
+- [ Unity, Oracle DB ] 물류 WCS 모니터링 프로그램 개발 </br>
+https://github.com/sodamkimkim/NNT_WCS3D</br>
+
+- [ Unity, Rest-API ] 물류 Crane 3D Sensor 모니터링 프로그램 개발</br>
+https://github.com/sodamkimkim/NNT_3DRMSensorMonitoring</br>
+
+- [ Unity Game with Shader ] 유니티 게임 'AquaMenti'</br>
 https://github.com/sodamkimkim/Game_AquaMenti</br>
 
 - [ Unity Metaverse with Photon(Multiplay), DB-Networking ] 유니티 멀티플레이 메타버스 'MetaBiff'</br>
